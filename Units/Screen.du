@@ -1,0 +1,4 @@
+Screen.bOldMode         db      ?
+Screen.bOldPage         db      ?
+Screen.wCursorSize      dw      ?
+Screen.bCurrMode        db      ?

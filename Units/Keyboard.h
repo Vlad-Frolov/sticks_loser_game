@@ -1,0 +1,1 @@
+KEY_ESCAPE      = 27
